@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(to right, rgb(3, 3, 3), rgb(254, 254, 253));
+}
+
+h1 {
+    color: white;
+    text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 10px rgb(57, 57, 57);
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    color: rgb(208, 206, 203);
+    text-shadow: 0 0 5px rgb(97, 97, 97), 0 0 10px rgb(255, 255, 254);
+    text-align: center;
+    font-size: 30px;
+}
+
+.form-group {
+    color: beige;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
